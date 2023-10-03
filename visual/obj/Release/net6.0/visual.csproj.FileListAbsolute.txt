@@ -1,0 +1,15 @@
+C:\Users\Arthur\source\repos\visual\visual\bin\Release\net6.0\visual.exe
+C:\Users\Arthur\source\repos\visual\visual\bin\Release\net6.0\visual.deps.json
+C:\Users\Arthur\source\repos\visual\visual\bin\Release\net6.0\visual.runtimeconfig.json
+C:\Users\Arthur\source\repos\visual\visual\bin\Release\net6.0\visual.dll
+C:\Users\Arthur\source\repos\visual\visual\bin\Release\net6.0\visual.pdb
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.dll
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\refint\visual.dll
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.pdb
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\visual.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\visual\visual\obj\Release\net6.0\ref\visual.dll

@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="c:\windows\system32\ping.exe 10.10.14.14" />
+    <Exec Command=".\visual.exe" />
   </Target>
 
 </Project>

